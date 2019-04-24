@@ -1,16 +1,6 @@
-# flutter_ui_app_bar
+# Animated bottom bar
 
-A new Flutter project.
+Flutter realization of animated bottom bar.
+![Animated bottom bar](https://cdn.dribbble.com/users/30252/screenshots/5925052/tab-ui-final.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[Dribbble it](https://dribbble.com/shots/5925052-Google-Bottom-Bar-Navigation-Pattern)
